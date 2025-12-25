@@ -1,2 +1,3 @@
-# my-first-project
-My first project created from mobile
+Hello 👋  
+This is my first GitHub project.  
+Created using my phone 📱
